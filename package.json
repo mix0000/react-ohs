@@ -1,0 +1,42 @@
+{
+  "name": "react-ohs",
+  "version": "0.1.0",
+  "description": "One hook state manager for React",
+  "main": "index.js",
+  "devDependencies": {
+    "react": "^16.13.0",
+    "eventemitter3": "^4.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mix0000/react-ohs.git"
+  },
+  "keywords": [
+    "redux",
+    "mobx",
+    "effector",
+    "state",
+    "store",
+    "vuex",
+    "reactive",
+    "state-manager",
+    "react",
+    "hooks",
+    "ohs",
+    "react-ohs"
+  ],
+  "author": "Lookarious",
+  "license": "MIT",
+  "files": [
+    "src",
+    "index.js",
+    "LICENSE"
+  ],
+  "bugs": {
+    "url": "https://github.com/mix0000/react-ohs/issues"
+  },
+  "homepage": "https://github.com/mix0000/react-ohs#readme"
+}

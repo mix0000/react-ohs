@@ -41,6 +41,7 @@ export const store = {
       // You can prevent rerender by returning false.   
       return false;
     },
+    // Make it async.   
     async getTodos(state) {  
       const res = await fetch("https://jsonplaceholder.typicode.com/todos");  
       state.todos = await res.json();

@@ -112,4 +112,4 @@ export const Todos = () => {
 ```
 
 ## Online Playground
-You can try `react-ohs` in [CodeSandbox](https://codesandbox.io/s/stoic-tereshkova-yylbp?file=/src/components/Todos.jsx).
+You can try `react-ohs` in [CodeSandbox](https://codesandbox.io/s/stoic-tereshkova-yylbp?file=/src/App.js).

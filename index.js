@@ -1,4 +1,4 @@
-import { useOhs } from "./store/useOhs";
-export { useOhs } from "./store/useOhs";
+import { useOhs } from "./src/store/useOhs";
+export { useOhs };
 
 module.exports.useOhs = useOhs;

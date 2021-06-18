@@ -3,7 +3,7 @@
   "version": "0.1.2",
   "description": "One hook state manager for React",
   "main": "index.js",
-  "devDependencies": {
+  "dependencies": {
     "react": "^16.13.0",
     "eventemitter3": "^4.0.7"
   },
